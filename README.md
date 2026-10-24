@@ -35,7 +35,7 @@ Create a very basic 3D pet tag generator.
 
 ## Deployment
 
-Not deployed yet
+Client side deployed to Vercel [here](https://pet-tag-generator.vercel.app/)
 
 ## User Story
 
@@ -56,6 +56,8 @@ I 3D print pet tags, wanted to spin up a quick customiser and see if the 3D prin
 4. Open a new Terminal in VS Code and type `npm install` to install the repo dependencies.
 
 ## Features
+
+3D printed text and object effect
 
 ## Technology
 
